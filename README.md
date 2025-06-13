@@ -212,8 +212,8 @@ INSERT INTO Enrollment (S_id, C_id) VALUES
 
 ## 🛠️ Tools Used
 
-- SQL (MySQL or SQLite)
-- ER Modeling (draw.io or similar
+- SQL (MySQL)
+- ER Modeling (draw.io or similar)
 
 ![image](https://github.com/user-attachments/assets/554587db-d31d-4124-b682-a01f8830d1f9)
 
